@@ -10,6 +10,6 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efecan-erdem-370a30201/)
 
-[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertcobanov@gmail.com)](mailto:efecanerdem0907@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:efecanerdem0907@gmail.com)](mailto:efecanerdem0907@gmail.com)
 
 
