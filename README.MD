@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=efecan0&show_icons=true">
 
-# Merhaba, ben Efecan Erdem! 
+# Hello World, I am Efecan Erdem! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efecan0" alt="efecan0" /> </p>
 
 
